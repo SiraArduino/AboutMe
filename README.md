@@ -6,8 +6,5 @@
 ### Job: Software Engineer
 ### Email: sira.programmer@gmail.com
 ### LinkedIn: https://www.linkedin.com/in/sira-benchapoowanon-04a562170/
-
-
-
-
+\\
 *"small steps everyday"*
